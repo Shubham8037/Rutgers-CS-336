@@ -1,5 +1,5 @@
 # Rutgers CS 336
-CS 336 PRIN INFO & DATA MGT at Rutgers University
+CS 336 Principles of Information and Data Management at Rutgers University
 
 Professor Antonio Miranda
 
